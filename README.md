@@ -108,7 +108,6 @@ Full project documentation including screenshots, configuration steps, and valid
 
 📄 [Download Full Lab Report](Project-01-Active-Directory-Lab.pdf)
 
-[Download Project Documentation](./Project-01-Active-Directory-Lab.pdf)
 
 ## Steps Performed
 
