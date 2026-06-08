@@ -102,4 +102,6 @@ This lab provided practical experience deploying and administering an Active Dir
 
 ## Documentation
 
-Full project documentation is available in the PDF file included in this repository.
+📄 Full project documentation can be downloaded here:
+
+[Download Project Documentation](./Project-01-Active-Directory-Lab.pdf)
