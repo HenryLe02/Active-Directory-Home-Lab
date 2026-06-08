@@ -7,6 +7,8 @@ This project demonstrates the deployment and administration of a Windows Server 
 The lab simulates common IT Support and System Administration tasks, including Active Directory deployment, user and group management, shared folder permissions, Group Policy configuration, password policies, and account recovery procedures.
 
 The goal of this project was to gain hands-on experience with technologies commonly used in enterprise environments and frequently required for IT Help Desk and Junior System Administrator roles.
+<img width="908" height="660" alt="image" src="https://github.com/user-attachments/assets/2b638093-62a9-483f-a6de-7e0281ac81eb" />
+
 
 ---
 
@@ -100,9 +102,11 @@ This lab provided practical experience deploying and administering an Active Dir
 
 ---
 
-## Documentation
+## Project Documentation
 
-📄 Full project documentation can be downloaded here:
+Full project documentation including screenshots, configuration steps, and validation results is available in the PDF below:
+
+📄 [Download Full Lab Report](Project-01-Active-Directory-Lab.pdf)
 
 [Download Project Documentation](./Project-01-Active-Directory-Lab.pdf)
 
